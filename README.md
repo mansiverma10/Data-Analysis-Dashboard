@@ -27,5 +27,11 @@ This project aims to build an interactive sales dashboard for Vrinda Store using
 
 - Calculate the percentage of total orders that were successfully delivered.
 
-- Dashboard Interaction 
+- Dashboard Interaction <a href="https://github.com/mansiverma10/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-03%20180040.png">View Dashboard </a>
 
+## Process
+
+- Verify data for any missing values and anomalies, and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tables according to the questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
