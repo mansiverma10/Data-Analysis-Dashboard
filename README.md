@@ -35,3 +35,10 @@ This project aims to build an interactive sales dashboard for Vrinda Store using
 - Made sure data is consistent and clean with respect to data type, data format and values used.
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+
+![Screenshot 2025-07-03 180040](https://github.com/user-attachments/assets/2a52b000-dcc0-4610-ba26-c2e091ffe2ff)
+
+
+
