@@ -8,3 +8,24 @@ This project aims to build an interactive sales dashboard for Vrinda Store using
 ## Dataset used
 - <a href="https://github.com/mansiverma10/Data-Analysis-Dashboard/blob/main/Vrinda%20Data%20Analysis2.xlsx">Dataset</a>
 
+## 📊 Key Performance Indicators (KPIs)
+- Visualize and compare total sales and total orders using a combined chart.
+
+- Identify the month with the highest number of sales and orders.
+
+- Analyze gender-wise purchasing behavior – who buys more: men or women?
+
+- List the various order statuses recorded in the year 2022.
+
+- Highlight the top 10 states that contribute the most to overall sales.
+
+- Examine the relationship between age and gender based on the number of orders placed.
+
+- Determine which sales channel (e.g., online or offline) generates the most revenue.
+
+- Find out the best-selling product category.
+
+- Calculate the percentage of total orders that were successfully delivered.
+
+- Dashboard Interaction 
+
