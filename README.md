@@ -25,7 +25,7 @@ This project aims to build an interactive sales dashboard for Vrinda Store using
 
 - Find out the best-selling product category.
 
-- Calculate the percentage of total orders that were successfully delivered.
+- Calculate the percentage of total orders that were successfully dilevered.
 
 - Dashboard Interaction <a href="https://github.com/mansiverma10/Data-Analysis-Dashboard/blob/main/Screenshot%202025-07-03%20180040.png">View Dashboard </a>
 
