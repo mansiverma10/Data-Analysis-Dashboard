@@ -42,11 +42,11 @@ This project aims to build an interactive sales dashboard for Vrinda Store using
 
 ## 📊 Project Insights
 
-- Approximately 65% of purchases are made by female customers, indicating a strong preference      among women.
+- Approximately 65% of purchases are made by female customers, indicating a strong preference among women.
 
-- The top three states contributing to the highest sales are Maharashtra, Karnataka, and Uttar     Pradesh.
+- The top three states contributing to the highest sales are Maharashtra, Karnataka, and Uttar Pradesh.
 
-- The 30–49 age group accounts for nearly 50% of total purchases, making it the most active        consumer segment.
+- The 30–49 age group accounts for nearly 50% of total purchases, making it the most active consumer segment.
 
 - The majority of customer orders are placed through Amazon, Flipkart, and Myntra.
 
